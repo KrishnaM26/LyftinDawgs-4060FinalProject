@@ -1,4 +1,4 @@
-#LyftinDawgs | 4060 Mobile Development Final Project
+# LyftinDawgs | 4060 Mobile Development Final Project
 
 # Overview
 LyftinDawgs is a voluntary based ride-share app helping university students get to and around campus. It is based on a system of points where driving can help earn points to later redeem as rides.
